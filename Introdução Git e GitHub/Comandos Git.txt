@@ -1,0 +1,11 @@
+git init --> iniciar reporitório no git 
+git add nome do arquivo  --> move um arquivo para stage
+git add .  --> move todos os arquivos para stage
+
+       Com os arquivos em stage segue-se com o commit:
+git commit -m "mensagem qualquer"--> criar commit com uma mensagem
+
+git status --> Mostra o status do arquivo (Untracked, Unmodified, Modified ou Staged)
+
+git push origin master  --> envia o commit para o GitHub
+git pull origin master  --> traz o commit do GitHub para o meu pc

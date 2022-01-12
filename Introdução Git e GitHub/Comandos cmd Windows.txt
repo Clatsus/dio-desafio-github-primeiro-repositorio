@@ -1,0 +1,27 @@
+Sistema Unix:
+cd --> change directory (muda a pasta)
+cd / --> vai pra pasta C:
+cd .. --> Volta uma pasta
+
+clear --> clear space (limpa a tela) (Ctrl+L)
+
+ls --> mostra o que tem dentro da pasta 
+ls -a  --> mostra pastas ocultas tmb
+
+mkdir --> cria uma nova pasta
+rm -rf --> deleta a pasta
+mv nome do arquivo ./nome da pasta/  --> move o arquivo para a pasta
+
+
+Sistema Windows:
+cd --> change directory (muda a pasta)
+cd / --> vai pra pasta C:
+cd .. --> Volta uma pasta
+
+cls --> clear space (limpa a tela)
+
+dir --> mostra o que tem dentro da pasta
+
+mkdir --> cria uma nova pasta
+del --> deleta os arquivos de uma pasta
+rmdir --> deleta a pasta
